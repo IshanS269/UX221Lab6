@@ -1,0 +1,43 @@
+<?xml?>
+<urlset>
+    <url>
+        <loc>
+            http://localhost:8000/oatmeal-with-banana-honey/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/grilled-chicken-with-brown-rice-veggies/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/greek-yogurt-with-berries-granola/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/sample-page/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/category/uncategorized/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/category/pre-game/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/author/ishans269/
+        </loc>
+    </url>
+</urlset>

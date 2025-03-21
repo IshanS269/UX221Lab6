@@ -1,0 +1,64 @@
+@media screen and (max-width: 29.938em) {
+.topheader-area .left{float:none; width:100%;}
+.topheader-area .container{display:block;}
+.phnarea span{text-align:center;}
+.topheader-area{padding:5px;}
+.phnarea span:before{display:none;}
+.phnarea a{margin-left:0px;}
+.appointment span{text-align:center;}
+.appointment a{margin-right:0px;}
+.appointment span:before{display:none;}
+.footer-infobox-left{float:none; width:100%;}
+.footer-infobox-center{float:none; width:100%;}
+.footer-infobox-right{float:none; width:100%; text-align:left;}
+.footer-infobox-left{text-align:left;}
+.footer-logo{text-align:left;}
+.blog-post{margin-top:0px;}
+body.blog #content_navigator, body.search-results #content_navigator, body.search-no-results #content_navigator, body.error404 #content_navigator{ padding:10px 0 0 0;}
+#navigation{margin-top:12px;}
+}
+
+@media screen and (max-width:47.938em) and (min-width:30.000em) {
+.topheader-area .left{float:none; width:100%;}
+.topheader-area .container{display:block;}
+.phnarea span{text-align:center;}
+.topheader-area{padding:5px;}
+.phnarea span:before{display:none;}
+.phnarea a{margin-left:0px;}
+.appointment span{text-align:center;}
+.appointment a{margin-right:0px;}
+.appointment span:before{display:none;}
+.blog-post{margin-top:0px;}
+body.blog #content_navigator, body.search-results #content_navigator, body.search-no-results #content_navigator, body.error404 #content_navigator{ padding:10px 0 0 0;}
+#navigation{margin-top:12px;}
+}
+
+@media screen and (max-width:63.938em) and (min-width:48.000em) {	
+.header .container{padding:0 20px;} 
+.phnarea span:before{display:none;}
+.appointment span:before{display:none;}
+.phnarea a{margin-left:0px;}
+body.wp-custom-logo .logo{ padding-left:0px !important; padding-right:0px !important;}
+.main-navigation button.menu-toggle{text-align:center !important; left:0px !important; margin: 0 auto !important; top:15px !important;}
+.toggled .menu-toggle span{background:#1b8b67;}
+#footer{padding:0 10px;}
+.social-icons a{width:48px; height:48px; line-height:48px;}
+.fot-phone h5{font-size:20px;}
+#footer .footer-infobox-left .fot-phone span{font-size:20px;}
+.footer{padding-top:0px;}
+}
+
+@media screen and (max-width:72.438em) and (min-width:63.250em) {
+#footer{padding:0 10px;}
+.footer{padding-top:0px;}
+.footer h2{font-size:24px;}
+.header .container{padding:0 50px;} 
+}
+
+@media screen and (max-width:767px) {
+.toggled .menu-toggle span{background:#1b8b67;}
+}
+
+@media screen and (max-width:1169px) and (min-width:1024px) {
+.header .container{padding:0 50px;} 	
+}
