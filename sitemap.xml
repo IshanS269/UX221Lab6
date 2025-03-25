@@ -17,6 +17,11 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/whole-grain-toast-with-peanut-butter-and-fresh-fruit/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/sample-page/
         </loc>
     </url>
@@ -38,6 +43,11 @@
     <url>
         <loc>
             http://localhost:8000/author/ishans269/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/author/raulhuja6/
         </loc>
     </url>
 </urlset>
